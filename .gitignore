@@ -1,0 +1,27 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# IDE / editor directories
+.vscode/
+.idea/
+
+# AI agent tool directories
+.claude/
+.firecrawl/
+
+# Unused theme files at root level (only assets/css/style.css is used)
+/style.css
+/theme1.css
+/theme2.css
+/theme4.css
+
+# Dev-only utility pages (not part of the live portfolio)
+/viewer.html
+/preview.html
+
+# Legacy build artifacts
+/nul
+/css3_part1.json
+/css3_part2.json
